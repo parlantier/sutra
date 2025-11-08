@@ -1,0 +1,23 @@
+{
+  "xmlId": {
+    "digha-nikaya": "디가 니까야",
+    "majjhima-nikaya": "맛지마 니까야",
+    "samyutta-nikaya": "상윳따 니까야",
+    "anguttara-nikaya": "앙굿따라 니까야",
+    "khuddaka-nikaya": "쿳다까 니까야"
+  },
+  "typeN": {
+    "nikaya|dn": "디가 니까야",
+    "nikaya|mn": "맛지마 니까야",
+    "nikaya|sn": "상윳따 니까야",
+    "nikaya|an": "앙굿따라 니까야",
+    "nikaya|kn": "쿳다까 니까야"
+  },
+  "head": {
+    "dīgha nikāya": "디가 니까야",
+    "majjhima nikāya": "맛지마 니까야",
+    "saṁyutta nikāya": "상윳따 니까야",
+    "aṅguttara nikāya": "앙굿따라 니까야",
+    "khuddaka nikāya": "쿳다까 니까야"
+  }
+}
